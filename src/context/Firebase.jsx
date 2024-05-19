@@ -23,7 +23,7 @@ import { createContext, useContext, useEffect, useState } from 'react'
 const FirebaseContext = createContext(null)
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyAp5wpm5BVL3BvbzuUihZKvYX-DP7e7h7w',
+  apiKey: 'AIzaSyAp5wpm5BVL3BvbzuUihZKvYX-w',
   authDomain: 'bookify-ee4f7.firebaseapp.com',
   projectId: 'bookify-ee4f7',
   storageBucket: 'bookify-ee4f7.appspot.com',
